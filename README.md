@@ -1,2 +1,2 @@
 # FNP_Site
-FNP_Site repo
+FNP_Site repository
